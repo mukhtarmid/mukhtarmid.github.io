@@ -8,7 +8,7 @@ A portfolio website that can be used to show your projects and other information
 > “Let the beauty of what you love be what you do.”
 >> ~Rumi
 
-> https://wierdbeardprocastanator.github.io
+> https://hamidmukhtar.github.io
 
 <!-- Website preview code here -->
 ## Features 📋
